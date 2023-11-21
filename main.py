@@ -1,8 +1,8 @@
 '''
 Case-study №4
 Developers:
-            Shishko S. 75%
-            Kuznetsov N. 50%
+            Shishko S. 70%
+            Kuznetsov N. 80%
 '''
 import random
 with open('input.txt', encoding='utf8') as input_file:
